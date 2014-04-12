@@ -1,0 +1,28 @@
+p{
+	font-size: 22px;
+	font-style: normal;
+	color: red;
+}
+.red{
+	font-size: 30px;
+	color: red;
+}
+.blue{
+	color: blue;
+}
+
+.big{
+	font-size: 250%;
+}
+blue big {
+	color: green;
+}
+
+#style1{
+	background-color: #000000;
+}
+
+.indent{
+	position: absolute;
+	left: 50px;
+}
